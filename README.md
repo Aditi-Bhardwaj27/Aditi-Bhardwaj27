@@ -8,21 +8,17 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=blue&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Aditi-Bhardwaj27&label=Profile%20views&color=blue&style=flat" alt="Profile views" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-💻 Building projects with Java and Python
-🧠 Strengthening problem-solving skills through DSA
-📊 Exploring Data Science, SQL, and Machine Learning
-🌐 Learning JavaScript, HTML, CSS, and Node.js
-🐙 Using Git & GitHub for version control and collaboration
-🤝 Open to collaborating on Java/Python projects and beginner-friendly open-source work
-🚀 Focused on writing clean, efficient, and maintainable code
-🎯 Working towards a career in software development and data-driven technologies
+- 🎓 B.Tech student in Computer Science (Data Science)
+- 🌱 Currently learning Java, Data Structures & Algorithms
+- 💡 Interested in software development and problem solving
+- 🚀 Working on improving my skills through practice projects
 
 ---
 
@@ -39,12 +35,9 @@
 - HTML, CSS, JavaScript
 
 ### Data & Computer Science
-📚 Data Structures & Algorithms
-🧠 Problem Solving
-🗄️ SQL / MySQL
-📊 Data Science Fundamentals
-🤖 Machine Learning Fundamentals
-🧹 Clean Code & Exception Handling
+- Data Structures & Algorithms
+- SQL / DBMS
+- Data Science fundamentals
 
 ### Tools & Platforms
 - Git and GitHub
@@ -85,15 +78,11 @@
 
 ## 🎯 My Goals
 
-🎓 Strengthen DSA & problem-solving skills
-☕ Become stronger in Java development
-🐍 Improve Python & Data Science skills
-🗄️ Become confident with SQL & databases
-🌐 Build practical web and backend projects
-🚀 Contribute to Open Source
-🤝 Collaborate with other developers
-💼 Prepare for internships and placements
-📈 Maintain consistent daily learning
+- Strengthen DSA and Java fundamentals
+- Build practical projects
+- Improve my coding consistency
+- Learn more about Data Science
+- Prepare for internships and placements
 
 ---
 
