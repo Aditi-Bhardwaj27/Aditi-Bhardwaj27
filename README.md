@@ -15,10 +15,14 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech student in Computer Science (Data Science)
-- 🌱 Currently learning Java, Data Structures & Algorithms
-- 💡 Interested in software development and problem solving
-- 🚀 Working on improving my skills through practice projects
+💻 Building projects with Java and Python
+🧠 Strengthening problem-solving skills through DSA
+📊 Exploring Data Science, SQL, and Machine Learning
+🌐 Learning JavaScript, HTML, CSS, and Node.js
+🐙 Using Git & GitHub for version control and collaboration
+🤝 Open to collaborating on Java/Python projects and beginner-friendly open-source work
+🚀 Focused on writing clean, efficient, and maintainable code
+🎯 Working towards a career in software development and data-driven technologies
 
 ---
 
@@ -35,9 +39,12 @@
 - HTML, CSS, JavaScript
 
 ### Data & Computer Science
-- Data Structures & Algorithms
-- SQL / DBMS
-- Data Science fundamentals
+📚 Data Structures & Algorithms
+🧠 Problem Solving
+🗄️ SQL / MySQL
+📊 Data Science Fundamentals
+🤖 Machine Learning Fundamentals
+🧹 Clean Code & Exception Handling
 
 ### Tools & Platforms
 - Git and GitHub
@@ -78,11 +85,15 @@
 
 ## 🎯 My Goals
 
-- Strengthen DSA and Java fundamentals
-- Build practical projects
-- Improve my coding consistency
-- Learn more about Data Science
-- Prepare for internships and placements
+🎓 Strengthen DSA & problem-solving skills
+☕ Become stronger in Java development
+🐍 Improve Python & Data Science skills
+🗄️ Become confident with SQL & databases
+🌐 Build practical web and backend projects
+🚀 Contribute to Open Source
+🤝 Collaborate with other developers
+💼 Prepare for internships and placements
+📈 Maintain consistent daily learning
 
 ---
 
@@ -92,7 +103,7 @@
   <a href="https://https://www.linkedin.com/in/imaditi-bhardwaj//">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:aditibhardwaj2303@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
