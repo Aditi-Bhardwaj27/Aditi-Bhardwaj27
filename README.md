@@ -2,7 +2,7 @@
 <h3 align="center">B.Tech CSE (Data Science) Student | Aspiring Software Developer</h3>
 
 <p align="center">
-  🌱 Learning Java, DSA and Data Science
+  🌱 Student Developer | Java & DSA Enthusiast | Data Science Learner
   <br>
   💻 Building projects and improving my coding skills
 </p>
