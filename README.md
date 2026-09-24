@@ -1,16 +1,38 @@
-## Hi there 👋
 
-<!--
-**Aditi-Bhardwaj27/Aditi-Bhardwaj27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Aditi Bhardwaj</h1>
+<h3 align="center">B.Tech CSE (Data Science) Student | Aspiring Software Developer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  📍 Greater Noida, India
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+- 🎓 Third-year B.Tech student at NIET, Greater Noida
+- 💻 Interested in software development and problem-solving
+- 🌱 Currently learning Java, DSA and Web Development
+- 🎯 Preparing for software development placements
+
+## 🛠️ Skills
+
+- **Languages:** Java, Python, C
+- **Web:** HTML, CSS, JavaScript
+- **Tools:** Git, GitHub, VS Code
+- **Core Subjects:** Data Structures, DBMS, Operating Systems
+
+## 🚀 My Projects
+
+*Coming soon! I'm currently working on building and improving my projects.*
+
+## 📫 Connect With Me
+
+- **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/imaditi-bhardwaj/)
+- **GitHub:** [My GitHub](https://github.com/Aditi-Bhardwaj27)
+
+---
+
+<p align="center">
+  Thanks for visiting my profile! 😊
+</p>
